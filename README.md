@@ -1,19 +1,16 @@
 <h1>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Everyone!</h1>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)](https://git.io/typing-svg)
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-</div>
-<div>
-  
 </div>
 
 - 👀 I am web backend developer and software engineer, specialize PHP, Laravel
 - 🏆 8 years of professional experience
 - 🏆 6+ years of Web Development and Custom Software Development
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
