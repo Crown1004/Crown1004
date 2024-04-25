@@ -6,7 +6,8 @@
 <div>
   
 </div>
-- 👀 I am web developer, specialize PHP, Laravel
+
+- 👀 I am web backend developer and software engineer, specialize PHP, Laravel
 - 🏆 8 years of professional experience
 - 🏆 6+ years of Web Development and Custom Software Development
 
